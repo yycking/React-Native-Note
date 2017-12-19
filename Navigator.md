@@ -56,7 +56,11 @@
   }
   ```
 
-* ```App.home({ desc: 'Hello React Native' })```
+* ```Actions.home({ desc: 'Hello React Native' })```
+
+* ```Actions.home()```
+
+  ​
 
 
 
