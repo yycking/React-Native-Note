@@ -1,4 +1,7 @@
-# flex-direction
+# flexDirection
+
+* 主軸方向
+
 
 * row
 
@@ -8,7 +11,7 @@
 
   `3` `2` `1`
 
-* column
+* column（預設）
 
   `1`
 
@@ -26,7 +29,7 @@
 
 
 
-# flex-wrap
+# flexWrap
 
 * nowarp
 
@@ -47,7 +50,10 @@
 
 
 
-# justify-content
+# justifyContent
+
+* 主軸排列
+
 
 * flex-start
 
@@ -70,8 +76,10 @@
   _ _ `11` _ _ | _ _ `22` _ _ | _ `3333` _
 
 
+# alignItems
 
-# align-item
+* 次軸排列（垂直主軸）
+
 
 * flex-start
 
@@ -104,7 +112,7 @@
 
 
 
-# align-self
+# alignSelf
 
 * 用在於覆寫已經套用 align-items 的屬性
 

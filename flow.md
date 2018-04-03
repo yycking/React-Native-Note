@@ -31,9 +31,9 @@
 
 * `Reducer` → `Store`
 
-  ​          ↑                      ↓
+  ​     ↑                   ↓
 
-  ​     `Action`    ←  `View`
+  `Action`    ←  `View`
 
 * ​
 
